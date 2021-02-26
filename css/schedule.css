@@ -1,0 +1,10 @@
+
+.main_div{
+	margin-top: 60px;
+	min-width: 1000px;
+}
+td,th{
+	padding: 5px;
+	text-align: center;
+	
+}
