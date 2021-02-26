@@ -1,8 +1,8 @@
 
 .main_div{
-	margin-top: 200px;
+	margin-top: 40px;
 	min-width: 1000px;
-	transform: rotate(90deg);
+	/* transform: rotate(180deg); */
 }
 td,th{
 	padding: 5px;
