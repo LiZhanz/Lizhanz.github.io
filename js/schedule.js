@@ -26,7 +26,7 @@ function getWeeks(){
 }
 function getCountdwon(){
 	var message=$("message");
-	var CET4Date = new Date(2021,5,19); //2021年6月考试时间为2021年6月19日
+	var CET4Date = new Date(2021,5,12); //2021年6月考试时间为2021年6月12日
 	var summerHolidayDate = new Date(2021,6,11); // 第二学期(2021-03-01)至(2021-07-11)
 	var winterHolidayDate = new Date(2022,0,24); //第一学期(2020-09-07)至(2021-01-24)
 	var cet4 = compteCountdown(CET4Date);
