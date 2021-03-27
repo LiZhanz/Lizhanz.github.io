@@ -9,3 +9,6 @@ td,th{
 	text-align: center;
 	min-width: 100px;
 }
+.pass{
+	color: lightgray;
+}
