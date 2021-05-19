@@ -28,6 +28,6 @@ function now() {
 	
 	nowStr += now.getFullYear()+"年";
 	nowStr += now.getMonth()+1+"月";
-	nowStr += now.getDay()+"日";
+	nowStr += now.getDate()+"日";
 	return nowStr;
 }
